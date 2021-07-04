@@ -8,11 +8,12 @@ body{
 }
 
 h1{
-    font-size: 50px;
+    font-size: 60px;
     
 }
 p {
     text-align: justify;
+    
 }
 
 .name-head {
@@ -21,6 +22,7 @@ p {
 
 section{
     display: flex;
+    margin-bottom: 35px;
 }
 .div-h{
     width: 50%;
@@ -28,7 +30,7 @@ section{
 
 }
 .div-h img{
-    width: 75%;
+    width: 80%;
     
 
 }
@@ -39,5 +41,15 @@ section{
     border-radius: 5px;
     color: snow;
     font-weight: 600;
+    margin-top: 10px;
+    display: inline-block;
+   
     
 }
+.sec-a{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
