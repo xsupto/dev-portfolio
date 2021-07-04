@@ -20,7 +20,7 @@ p {
     color: #fb6957;
 }
 
-section{
+.flxb{
     display: flex;
     margin-bottom: 35px;
 }
@@ -53,3 +53,42 @@ section{
 
 }
 
+.div-hhh{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    margin-bottom: 80px;
+   
+    
+    box-shadow: 10px 10px 30px gray;
+
+}
+h2{
+    font-size: 40px;
+}
+.exp-a{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#uia{
+
+    border-image: linear-gradient( blue,red);
+    border-left: 8px solid;
+    border-image-slice: 1;
+}
+
+#uib{
+    border-image: linear-gradient( rgb(125, 243, 121),rgb(0, 85, 4));
+    border-left: 8px solid;
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    color: rgb(255, 107, 131);
+    font-size: 14px
+}
