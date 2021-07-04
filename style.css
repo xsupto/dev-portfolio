@@ -60,9 +60,8 @@ p {
     padding-right: 10px;
     border-radius: 8px;
     margin-bottom: 80px;
-   
-    
     box-shadow: 10px 10px 30px gray;
+    
 
 }
 h2{
@@ -91,4 +90,10 @@ footer p{
     text-align: center;
     color: rgb(255, 107, 131);
     font-size: 14px
+}
+
+.div-hhh:hover{
+    color: orangered;
+    background-image: linear-gradient(black, gray);
+    
 }
